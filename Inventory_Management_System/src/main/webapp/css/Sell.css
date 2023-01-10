@@ -1,0 +1,13 @@
+@charset "UTF-8";
+.h1{
+    text-align: "center";
+}
+form {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  label, input {
+    /* flex: 1; */
+    margin: 5px;
+  }

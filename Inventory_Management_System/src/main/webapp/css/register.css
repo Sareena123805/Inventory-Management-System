@@ -1,0 +1,55 @@
+@charset "UTF-8";
+body  
+{  
+    margin: 0;  
+    padding: 0;  
+    background-color:#6abadeba;  
+    font-family: 'Arial';  
+} 
+.form-group row{
+	padding:20px;
+	margin:20px;
+	border-box:2px;
+	border-radius:3px;
+	
+}
+.hello{
+    margin-left: 40%;
+}
+.login{  
+        width: 382px;  
+        overflow: hidden;  
+        margin: auto;  
+        margin: 20 0 0 450px;  
+        padding: 80px;  
+        background: rgb(19, 106, 138);
+        border-radius: 15px ;  
+          
+}  
+h2{  
+    text-align: center;  
+    color: black;  
+    padding: 20px;  
+}  
+label{  
+    color: black;
+        font-size: 17px;  
+}  
+
+#log{  
+    width: 300px;  
+    height: 30px;  
+    border: none;  
+    border-radius: 17px;  
+    padding-left: 7px;  
+    color: Black;  
+  
+}  
+span{  
+    color: white;  
+    font-size: 17px;  
+}  
+a{  
+    float: right;  
+    background-color: rgba(1, 2, 0, 0.603);  
+}  
